@@ -1,0 +1,842 @@
+[
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/conf/ini.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/conf/ini.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/conf/ini.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/io/io.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/io/io.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/io/io.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/io/roll_select_dir.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/io/roll_select_dir.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/io/roll_select_dir.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/lang/bitmap.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/lang/bitmap.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/lang/bitmap.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/lang/mutex.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/lang/mutex.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/lang/mutex.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/lang/string.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/lang/string.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/lang/string.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/log/log.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/log/log.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/log/log.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/math/md5.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/math/md5.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/math/md5.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/math/random_generator.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/math/random_generator.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/math/random_generator.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/math/regex.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/math/regex.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/math/regex.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/console_reporter.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/console_reporter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/console_reporter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/histogram_snapshot.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/histogram_snapshot.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/histogram_snapshot.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/log_reporter.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/log_reporter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/log_reporter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/metrics.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/metrics.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/metrics.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/metrics_registry.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/metrics_registry.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/metrics_registry.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/reporter.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/reporter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/reporter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/reservoir.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/reservoir.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/reservoir.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/sampler.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/sampler.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/sampler.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/timer_snapshot.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/timer_snapshot.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/timer_snapshot.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/metrics/uniform_reservoir.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/uniform_reservoir.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/uniform_reservoir.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/mm/mem_pool.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/mm/mem_pool.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/mm/mem_pool.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/os/os.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/os.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/os.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/os/path.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/path.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/path.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/os/pidfile.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/pidfile.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/pidfile.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/os/process.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/process.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/process.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/os/process_param.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/process_param.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/process_param.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/os/signal.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/signal.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/signal.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/callback.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/callback.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/callback.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/event_dispatcher.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/event_dispatcher.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/event_dispatcher.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/example_stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/example_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/example_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/init.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/init.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/init.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/kill_thread.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/kill_thread.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/kill_thread.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/metrics_report_event.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/metrics_report_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/metrics_report_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/metrics_stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/metrics_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/metrics_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/seda_config.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/seda_config.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/seda_config.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/stage_event.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/stage_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/stage_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/thread_pool.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/thread_pool.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/thread_pool.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/seda/timer_stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/timer_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/timer_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/time/datetime.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/time/datetime.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/time/datetime.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -Dcommon_EXPORTS -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -fPIC -std=gnu++14 -o CMakeFiles/common.dir/time/timeout_info.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/time/timeout_info.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/time/timeout_info.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/conf/ini.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/conf/ini.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/conf/ini.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/io/io.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/io/io.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/io/io.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/io/roll_select_dir.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/io/roll_select_dir.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/io/roll_select_dir.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/lang/bitmap.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/lang/bitmap.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/lang/bitmap.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/lang/mutex.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/lang/mutex.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/lang/mutex.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/lang/string.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/lang/string.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/lang/string.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/log/log.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/log/log.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/log/log.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/math/md5.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/math/md5.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/math/md5.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/math/random_generator.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/math/random_generator.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/math/random_generator.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/math/regex.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/math/regex.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/math/regex.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/console_reporter.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/console_reporter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/console_reporter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/histogram_snapshot.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/histogram_snapshot.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/histogram_snapshot.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/log_reporter.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/log_reporter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/log_reporter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/metrics.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/metrics.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/metrics.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/metrics_registry.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/metrics_registry.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/metrics_registry.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/reporter.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/reporter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/reporter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/reservoir.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/reservoir.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/reservoir.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/sampler.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/sampler.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/sampler.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/timer_snapshot.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/timer_snapshot.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/timer_snapshot.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/metrics/uniform_reservoir.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/metrics/uniform_reservoir.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/metrics/uniform_reservoir.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/mm/mem_pool.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/mm/mem_pool.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/mm/mem_pool.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/os/os.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/os.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/os.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/os/path.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/path.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/path.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/os/pidfile.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/pidfile.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/pidfile.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/os/process.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/process.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/process.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/os/process_param.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/process_param.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/process_param.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/os/signal.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/os/signal.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/os/signal.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/callback.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/callback.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/callback.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/event_dispatcher.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/event_dispatcher.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/event_dispatcher.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/example_stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/example_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/example_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/init.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/init.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/init.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/kill_thread.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/kill_thread.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/kill_thread.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/metrics_report_event.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/metrics_report_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/metrics_report_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/metrics_stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/metrics_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/metrics_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/seda_config.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/seda_config.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/seda_config.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/stage_event.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/stage_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/stage_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/thread_pool.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/thread_pool.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/thread_pool.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/seda/timer_stage.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/seda/timer_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/seda/timer_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/time/datetime.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/time/datetime.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/time/datetime.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/deps/common",
+  "command": "/usr/bin/g++ -DLINUX -DMAIJOR_VER=1 -DMINOR_VER=0 -DOTHER_VER=1 -DPATCH_VER=0 -DUNIX -I/home/weizhi/local/db_impl_course/deps/common/..  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/common_static.dir/time/timeout_info.cpp.o -c /home/weizhi/local/db_impl_course/deps/common/time/timeout_info.cpp",
+  "file": "/home/weizhi/local/db_impl_course/deps/common/time/timeout_info.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/obclient",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/obclient/. -I/home/weizhi/local/db_impl_course/src/obclient/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/obclient.dir/client.cpp.o -c /home/weizhi/local/db_impl_course/src/obclient/client.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/obclient/client.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/event/execution_plan_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/execution_plan_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/execution_plan_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/event/session_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/session_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/session_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/event/sql_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/sql_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/sql_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/event/storage_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/storage_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/storage_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/init.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/init.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/init.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/main.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/main.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/main.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/net/server.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/net/server.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/net/server.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/rc.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/rc.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/rc.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/session/session.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/session/session.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/session/session.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/session/session_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/session/session_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/session/session_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/executor/execute_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/execute_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/execute_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/executor/execution_node.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/execution_node.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/execution_node.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/executor/tuple.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/tuple.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/tuple.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/executor/value.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/value.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/value.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/optimizer/optimize_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/optimizer/optimize_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/optimizer/optimize_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/gcc -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -o CMakeFiles/observer.dir/sql/parser/lex.yy.c.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/lex.yy.c",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/lex.yy.c"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/parser/parse.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/parse.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/parse.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/parser/parse_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/parse_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/parse_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/parser/resolve_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/resolve_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/resolve_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/gcc -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -o CMakeFiles/observer.dir/sql/parser/yacc_sql.tab.c.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/yacc_sql.tab.c",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/yacc_sql.tab.c"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/plan_cache/plan_cache_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/plan_cache/plan_cache_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/plan_cache/plan_cache_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/sql/query_cache/query_cache_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/query_cache/query_cache_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/query_cache/query_cache_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/bplus_tree.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/bplus_tree_index.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree_index.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree_index.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/condition_filter.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/condition_filter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/condition_filter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/db.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/db.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/db.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/field_meta.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/field_meta.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/field_meta.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/index.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/index.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/index.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/index_meta.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/index_meta.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/index_meta.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/meta_util.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/meta_util.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/meta_util.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/record_manager.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/record_manager.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/record_manager.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/table.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/table.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/table.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/common/table_meta.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/table_meta.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/table_meta.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/default/default_handler.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/default/default_handler.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/default/default_handler.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/default/default_storage_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/default/default_storage_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/default/default_storage_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/default/disk_buffer_pool.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/default/disk_buffer_pool.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/default/disk_buffer_pool.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/mem/mem_storage_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/mem/mem_storage_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/mem/mem_storage_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer.dir/storage/trx/trx.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/trx/trx.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/trx/trx.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/event/execution_plan_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/execution_plan_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/execution_plan_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/event/session_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/session_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/session_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/event/sql_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/sql_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/sql_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/event/storage_event.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/event/storage_event.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/event/storage_event.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/init.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/init.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/init.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/net/server.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/net/server.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/net/server.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/rc.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/rc.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/rc.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/session/session.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/session/session.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/session/session.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/session/session_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/session/session_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/session/session_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/executor/execute_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/execute_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/execute_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/executor/execution_node.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/execution_node.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/execution_node.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/executor/tuple.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/tuple.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/tuple.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/executor/value.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/executor/value.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/executor/value.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/optimizer/optimize_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/optimizer/optimize_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/optimizer/optimize_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/gcc -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -o CMakeFiles/observer_static.dir/sql/parser/lex.yy.c.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/lex.yy.c",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/lex.yy.c"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/parser/parse.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/parse.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/parse.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/parser/parse_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/parse_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/parse_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/parser/resolve_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/resolve_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/resolve_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/gcc -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -o CMakeFiles/observer_static.dir/sql/parser/yacc_sql.tab.c.o -c /home/weizhi/local/db_impl_course/src/observer/sql/parser/yacc_sql.tab.c",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/parser/yacc_sql.tab.c"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/plan_cache/plan_cache_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/plan_cache/plan_cache_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/plan_cache/plan_cache_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/sql/query_cache/query_cache_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/sql/query_cache/query_cache_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/sql/query_cache/query_cache_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/bplus_tree.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/bplus_tree_index.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree_index.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/bplus_tree_index.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/condition_filter.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/condition_filter.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/condition_filter.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/db.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/db.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/db.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/field_meta.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/field_meta.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/field_meta.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/index.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/index.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/index.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/index_meta.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/index_meta.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/index_meta.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/meta_util.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/meta_util.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/meta_util.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/record_manager.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/record_manager.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/record_manager.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/table.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/table.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/table.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/common/table_meta.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/common/table_meta.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/common/table_meta.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/default/default_handler.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/default/default_handler.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/default/default_handler.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/default/default_storage_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/default/default_storage_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/default/default_storage_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/default/disk_buffer_pool.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/default/disk_buffer_pool.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/default/disk_buffer_pool.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/mem/mem_storage_stage.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/mem/mem_storage_stage.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/mem/mem_storage_stage.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/src/observer",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/src/observer/. -I/home/weizhi/local/db_impl_course/src/observer -I/home/weizhi/local/db_impl_course/src/observer/../../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/observer_static.dir/storage/trx/trx.cpp.o -c /home/weizhi/local/db_impl_course/src/observer/storage/trx/trx.cpp",
+  "file": "/home/weizhi/local/db_impl_course/src/observer/storage/trx/trx.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/bitmap_test.dir/bitmap_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/bitmap_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/bitmap_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/bp_manager_test.dir/bp_manager_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/bp_manager_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/bp_manager_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/bplus_tree_test.dir/bplus_tree_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/bplus_tree_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/bplus_tree_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/log_test.dir/log_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/log_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/log_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/md5_test.dir/md5_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/md5_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/md5_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/mem_pool_test.dir/mem_pool_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/mem_pool_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/mem_pool_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/path_test.dir/path_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/path_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/path_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/pidfile_test.dir/pidfile_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/pidfile_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/pidfile_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/unitest",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/unitest/. -I/home/weizhi/local/db_impl_course/unitest/../deps -I/home/weizhi/local/db_impl_course/unitest/../src/observer  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/rc_test.dir/rc_test.cpp.o -c /home/weizhi/local/db_impl_course/unitest/rc_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/unitest/rc_test.cpp"
+},
+{
+  "directory": "/home/weizhi/local/db_impl_course/build/test",
+  "command": "/usr/bin/g++ -DLINUX -DUNIX -I/home/weizhi/local/db_impl_course/test/. -I/home/weizhi/local/db_impl_course/test/../deps  -Wall -DCMAKE_EXPORT_COMPILE_COMMANDS=1  -O2 -g  -g -std=gnu++14 -o CMakeFiles/client_performance_test.dir/client_performance_test.cpp.o -c /home/weizhi/local/db_impl_course/test/client_performance_test.cpp",
+  "file": "/home/weizhi/local/db_impl_course/test/client_performance_test.cpp"
+}
+]
